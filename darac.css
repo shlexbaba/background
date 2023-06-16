@@ -7,10 +7,10 @@
  * @website https://github.com/slowstab/dracula
  * @source https://github.com/slowstab/dracula/blob/main/dracula.scss
  */
-@import url("https://slowstab.github.io/dracula/BetterDiscord/source.css");
-@import url("https://mulverinex.github.io/legacy-settings-icons/dist-native.css");
-
 :root
 {
+  @import url("https://slowstab.github.io/dracula/BetterDiscord/source.css");
+@import url("https://mulverinex.github.io/legacy-settings-icons/dist-native.css");
+
 --theme-background-image: url(https://i.hizliresim.com/5kdq0pq.png);
 }
